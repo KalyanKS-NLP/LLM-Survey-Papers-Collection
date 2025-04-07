@@ -345,7 +345,11 @@ This repo contains a category wise collection of 200+ LLM survey papers.
 | A Comprehensive Survey on Integrating Large Language Models with Knowledge-Based Methods | Knowledge Bases | [Link](https://arxiv.org/abs/2501.13947) |
 
 
+## ⭐️ Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=KalyanKS-NLP/LLM-Survey-Papers-Collection&type=Date)](https://star-history.com/#)
+
+Please consider giving a star, if you find this repository useful. 
 
 
 
