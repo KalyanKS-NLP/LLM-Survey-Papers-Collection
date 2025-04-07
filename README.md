@@ -188,6 +188,162 @@ This repo contains a category wise collection of 200+ LLM survey papers.
 | A Survey on Data Augmentation in Large Model Era | [Link](https://arxiv.org/abs/2401.15422) |
 
 ## Hallucination
+| Paper | Link |
+|-------|------|
+| A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions | [Link](https://arxiv.org/abs/2311.05232) |
+| A Comprehensive Survey of Hallucination Mitigation Techniques in Large Language Models | [Link](https://arxiv.org/abs/2401.01313) |
+| Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey | [Link](https://arxiv.org/abs/2311.07914) |
+
+
+## Fairness
+| Paper | Link |
+|-------|------|
+| Fairness Definitions in Language Models Explained | [Link](https://arxiv.org/abs/2407.18454) |
+| A survey on fairness of large language models in e-commerce: progress, application, and challenge | [Link](https://arxiv.org/abs/2405.13025) |
+| Fairness in Large Language Models: A Taxonomic Survey | [Link](https://arxiv.org/abs/2404.01349) |
+| A Survey on Fairness in Large Language Models | [Link](https://arxiv.org/abs/2308.10149) |
+
+## Embedding Models
+| Paper | Link |
+|-------|------|
+| LLMs are Also Effective Embedding Models: An In-depth Overview | [Link](https://arxiv.org/abs/2412.12591) |
+| When Text Embedding Meets Large Language Model: A Comprehensive Survey | [Link](https://arxiv.org/abs/2412.09165) |
+
+## LLM Evaluation
+| Paper | Link |
+|-------|------|
+| LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods | [Link](https://arxiv.org/abs/2412.05579) |
+| From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge | [Link](https://arxiv.org/abs/2411.16594) |
+| A Survey on LLM-as-a-Judge | [Link](https://arxiv.org/abs/2411.15594) |
+| Automatic Metrics in Natural Language Generation: A Survey of Current Evaluation Practices | [Link](https://arxiv.org/abs/2408.09169) |
+| A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations | [Link](https://arxiv.org/abs/2407.04069) |
+| The Challenges of Evaluating LLM Applications: An Analysis of Automated, Human, and LLM-Based Approaches | [Link](https://arxiv.org/abs/2406.03339) |
+| A Survey of Useful LLM Evaluation | [Link](https://arxiv.org/abs/2406.00936) |
+| Leveraging Large Language Models for NLG Evaluation: A Survey | [Link](https://arxiv.org/abs/2401.07103) |
+| Evaluating Large Language Models: A Comprehensive Survey | [Link](https://arxiv.org/abs/2310.19736) |
+| Through the Lens of Core Competency: Survey on Evaluation of Large Language Models | [Link](https://arxiv.org/abs/2308.07902) |
+| A Survey on Evaluation of Large Language Models | [Link](https://arxiv.org/abs/2307.03109) |
+
+## Synthetic Data Generation
+| Paper | Link |
+|-------|------|
+| Surveying the Effects of Quality, Diversity, and Complexity in Synthetic Data From Large Language Models | [Link](https://arxiv.org/abs/2412.02980) |
+| On LLMs-Driven Synthetic Data Generation, Curation, and Evaluation: A Survey | [Link](https://arxiv.org/abs/2406.15126) |
+| Synthetic Data Generation Using Large Language Models: Advances in Text and Code | [Link](https://arxiv.org/abs/2503.14023) |
+| A Survey on Recent Advances in Conversational Data Generation | [Link](https://arxiv.org/abs/2405.13003) |
+
+## LLM Safety
+| Paper | Link |
+|-------|------|
+| Recent advancements in LLM Red-Teaming: Techniques, Defenses, and Ethical Considerations | [Link](https://arxiv.org/abs/2410.09097) |
+| AI Safety in Generative AI Large Language Models: A Survey | [Link](https://arxiv.org/abs/2407.18369) |
+| Jailbreak Attacks and Defenses Against Large Language Models: A Survey | [Link](https://arxiv.org/abs/2407.04295) |
+| Against The Achilles’ Heel: A Survey on Red Teaming for Generative Models | [Link](https://arxiv.org/abs/2404.00629) |
+| On Protecting the Data Privacy of Large Language Models (LLMs): A Survey | [Link](https://arxiv.org/abs/2403.05156) |
+| Breaking Down the Defenses: A Comparative Survey of Attacks on Large Language Models | [Link](https://arxiv.org/abs/2403.04786) |
+| Attacks, Defenses and Evaluations for LLM Conversation Safety: A Survey | [Link](https://arxiv.org/abs/2402.09283) |
+| Building Guardrails for Large Language Models | [Link](https://arxiv.org/abs/2402.01822) |
+| Security and Privacy Challenges of Large Language Models: A Survey | [Link](https://arxiv.org/abs/2402.00888) |
+| A Security Risk Taxonomy for Large Language Models | [Link](https://arxiv.org/abs/2311.11415) |
+| A Survey of Safety and Trustworthiness of Large Language Models through the Lens of Verification and Validation | [Link](https://arxiv.org/abs/2305.11391) |
+
+## LLMs for Specific Domains
+| Paper | Domain | Link |
+|-------|--------|------|
+| Large language models (LLM) in computational social science: prospects, current state, and challenges | Social Media | [Link](URL) |
+| A Survey on Large Language Models for Code Generation | Coding | [Link](https://arxiv.org/abs/2503.01245v2) |
+| Large Language Models Meet NL2Code: A Survey | Coding | [Link](https://arxiv.org/abs/2212.09420) |
+| Large Language Models for Education: A Survey | Education | [Link](https://arxiv.org/abs/2405.13001) |
+| Political-LLM: Large Language Models in Political Science | Political Science | [Link](https://arxiv.org/abs/2412.06864) |
+| Code LLMs: A Taxonomy-based Survey | Coding | [Link](https://arxiv.org/abs/2412.08291) |
+| Large Language Models for Constructing and Optimizing Machine Learning Workflows: A Survey | Data Science | [Link](https://arxiv.org/abs/2411.10478) |
+| A Survey of Large Language Models in Finance (FinLLMs) | Finance | [Link](https://arxiv.org/abs/2402.02315) |
+| Large Language Models in Finance: A Survey | Finance | [Link](https://arxiv.org/abs/2311.10723) |
+| Revolutionizing Finance with LLMs: An Overview of Applications and Insights | Finance | [Link](https://arxiv.org/abs/2401.11641) |
+| Legal Evalutions and Challenges of Large Language Models | Legal | [Link](https://arxiv.org/abs/2411.10137) |
+| Large Language Models in Law: A Survey | Legal | [Link](https://arxiv.org/abs/2312.03718) |
+| A Survey for Large Language Models in Biomedicine | Healthcare | [Link](https://arxiv.org/abs/2409.00133) |
+| A Review on Scientific Knowledge Extraction using Large Language Models in Biomedical Sciences | Healthcare | [Link](https://arxiv.org/abs/2412.03531) |
+| Demystifying Large Language Models for Medicine: A Primer | Healthcare | [Link](https://arxiv.org/abs/2410.18856) |
+| Large Language Models for Disease Diagnosis: A Scoping Review | Healthcare | [Link](https://arxiv.org/abs/2409.00097) |
+| A Survey on Large Language Models from General Purpose to Medical Applications: Datasets, Methodologies, and Evaluations | Healthcare | [Link](https://arxiv.org/abs/2406.10303) |
+| A Survey of Large Language Models in Medicine: Principles, Applications, and Challenges | Healthcare | [Link](https://arxiv.org/abs/2311.05112) |
+| Large Language Models for Medicine: A Survey | Healthcare | [Link](https://arxiv.org/abs/2405.13055) |
+| Large Language Models in Biomedical and Health Informatics: A Bibliometric Review | Healthcare | [Link](https://arxiv.org/abs/2403.16303) |
+| A Survey on Medical Large Language Models: Technology, Application, Trustworthiness, and Future Directions | Healthcare | [Link](https://arxiv.org/abs/2406.03712) |
+| A Survey of Large Language Models for Healthcare: from Data, Technology, and Applications to Accountability and Ethics | Healthcare | [Link](https://arxiv.org/abs/2310.05694) |
+| AI for Biomedicine in the Era of Large Language Models | Healthcare | [Link](https://arxiv.org/abs/2403.15673) |
+| Large Language Models in Bioinformatics: A Survey | Healthcare | [Link](https://arxiv.org/abs/2503.04490) |
+| Large language models for automated scholarly paper review: A survey | Scientific Research | [Link](https://arxiv.org/abs/2501.10326) |
+| LLM4SR: A Survey on Large Language Models for Scientific Research | Scientific Research | [Link](https://arxiv.org/abs/2501.04306) |
+| A Comprehensive Survey of Scientific Large Language Models and Their Applications in Scientific Discovery | Scientific Research | [Link](https://arxiv.org/abs/2406.10833) |
+| Harnessing Large Language Models for Disaster Management: A Survey | Disaster Management | [Link](https://arxiv.org/abs/2501.06932) |
+| Leveraging Foundation Models for Crafting Narrative Visualization: A Survey | Visualization | [Link](https://arxiv.org/abs/2401.14010) |
+| LLMs in Software Security: A Survey of Vulnerability Detection Techniques and Insights | Security | [Link](https://arxiv.org/abs/2502.07049) |
+| Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey | Security | [Link](https://arxiv.org/abs/2408.07583) |
+| A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions | Security | [Link](https://arxiv.org/abs/2405.14487) |
+| Mathematical Language Models: A Survey | Maths | [Link](https://arxiv.org/abs/2312.07622) |
+| Software Testing with Large Language Model: Survey, Landscape, and Vision | Software Engineering | [Link](https://arxiv.org/abs/2307.07221) |
+| Large Language Models for Software Engineering: Survey and Open Problems | Software Engineering | [Link](https://arxiv.org/abs/2310.03533) |
+
+## Others
+| Paper | Category | Link |
+|-------|----------|------|
+| Awes, Laws, and Flaws From Today’s LLM Research | LLM Research | [Link](https://arxiv.org/abs/2408.15409) |
+| Efficient Large Language Models: A Survey | Efficient LLMs | [Link](https://arxiv.org/abs/2312.03863) |
+| Continual Learning for Large Language Models: A Survey | Continual Learning | [Link](https://arxiv.org/abs/2402.01364) |
+| From Selection to Generation: A Survey of LLM-based Active Learning | Active Learning | [Link](https://arxiv.org/abs/2502.11767) |
+| Towards Lifelong Learning of Large Language Models: A Survey | Life Long Learning | [Link](https://arxiv.org/abs/2406.06391) |
+| Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions | Privacy Preserving Mechanism |  |
+| A Survey on Human Preference Learning for Large Language Models | Human Preference Learning | [Link](https://arxiv.org/abs/2406.11191) |
+| A Survey on Human-Centric LLMs | Human centric LLMs | [Link](https://arxiv.org/abs/2411.14491) |
+| Prompt Compression for Large Language Models: A Survey | Prompts | [Link](https://arxiv.org/abs/2410.12388) |
+| The Oscars of AI Theater: A Survey on Role-Playing with Language Models | Prompts | [Link](https://arxiv.org/abs/2407.16216) |
+| From Natural Language to SQL: Review of LLM-based Text-to-SQL Systems | Text-to-SQL | [Link](https://arxiv.org/abs/2410.01066) |
+| Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL | Text-to-SQL | [Link](https://arxiv.org/abs/2406.08426) |
+| A Survey of NL2SQL with Large Language Models: Where are we, and where are we going? | Text-to-SQL | [Link](https://arxiv.org/abs/2408.05109) |
+| A Survey on Employing Large Language Models for Text-to-SQL Tasks | Text-to-SQL | [Link](https://arxiv.org/abs/2407.15186) |
+| Undesirable Memorization in Large Language Models: A Survey | LLM Memorization | [Link](https://arxiv.org/abs/2410.02650) |
+| A Survey of Low-bit Large Language Models: Basics, Systems, and Algorithms | Low bit LLMs | [Link](https://arxiv.org/abs/2409.16694) |
+| Towards Data Contamination Detection for Modern Large Language Models: Limitations, Inconsistencies, and Oracle Challenges | Data Contamination | [Link](https://arxiv.org/abs/2409.09927) |
+| Benchmark Data Contamination of Large Language Models: A Survey | Data Contamination | [Link](https://arxiv.org/abs/2406.04244) |
+| Attention Heads of Large Language Models: A Survey | LLM Attention Heads | [Link](https://arxiv.org/abs/2409.03752) |
+| Claim Verification in the Age of Large Language Models: A Survey | Fact Checking | [Link](https://arxiv.org/abs/2408.14317) |
+| Generative Large Language Models in Automated Fact-Checking: A Survey | Fact Checking | [Link](https://arxiv.org/abs/2407.02351) |
+| Controllable Text Generation for Large Language Models: A Survey | Controllable Text Generation | [Link](https://arxiv.org/abs/2408.12599) |
+| A Survey on Symbolic Knowledge Distillation of Large Language Models | Knowledge Distillation | [Link](https://arxiv.org/abs/2408.10210) |
+| Survey on Knowledge Distillation for Large Language Models: Methods, Evaluation, and Application | Knowledge Distillation | [Link](https://arxiv.org/abs/2407.01885) |
+| Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities | Model Merging | [Link](https://arxiv.org/abs/2408.07666) |
+| Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions | Privacy Preserving | [Link](https://arxiv.org/abs/2408.05212) |
+| Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption | LLM’s KV-Cache | [Link](https://arxiv.org/abs/2407.18003) |
+| Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models | Collaborative Strategies | [Link](https://arxiv.org/abs/2407.06089) |
+| When Search Engine Services meet Large Language Models: Visions and Challenges | Search Engines meet LLMs | [Link](https://arxiv.org/abs/2407.00128) |
+| A Systematic Survey of Text Summarization: From Statistical Methods to Large Language Models | Text Summarization | [Link](https://arxiv.org/abs/2406.11289) |
+| LLMs Meet Multimodal Generation and Editing: A Survey | Multi-modal Generation | [Link](https://arxiv.org/abs/2405.19334) |
+| Large Language Models on Tabular Data - A Survey | Tabular Data | [Link](https://arxiv.org/abs/2402.17944) |
+| Large Language Model for Table Processing: A Survey | Tabular Data | [Link](https://arxiv.org/abs/2402.05121) |
+| Large Language Models for Time Series: A Survey | Time Series Data | [Link](https://arxiv.org/abs/2402.01801) |
+| A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems | Dialogue Systems | [Link](https://arxiv.org/abs/2402.18013) |
+| Advancing Graph Representation Learning with Large Language Models: A Comprehensive Survey of Techniques | Graph Representation Learning | [Link](https://arxiv.org/abs/2402.05952) |
+| When Large Language Models Meet Vector Databases: A Survey | Vector Databases | [Link](https://arxiv.org/abs/2402.01763) |
+| Beyond the Limits: A Survey of Techniques to Extend the Context Length in Large Language Models | Context Length | [Link](https://arxiv.org/abs/2402.02244) |
+| The What, Why, and How of Context Length Extension Techniques in Large Language Models – A Detailed Survey | Context Length | [Link](https://arxiv.org/abs/2401.07872) |
+| Leveraging Large Models for Crafting Narrative Visualization: A Survey | Visualization | [Link](https://arxiv.org/abs/2401.14010) |
+| Large Language Models for Social Networks : Applications, Challenges and Solutions | Social Networks | [Link](https://arxiv.org/abs/2401.02575) |
+| Large Language Models for Generative Information Extraction: A Survey | Information Extraction | [Link](https://arxiv.org/abs/2312.17617) |
+| A Survey of Text Watermarking in the Era of Large Language Models | Water Marking | [Link](https://arxiv.org/abs/2312.07913) |
+| Large Language Models on Graphs: A Comprehensive Survey | Graphs | [Link](https://arxiv.org/abs/2312.02783) |
+| A Survey of Graph Meets Large Language Model: Progress and Future Directions | Graphs | [Link](https://arxiv.org/abs/2311.12399) |
+| A Survey on LLM-Generated Text Detection: Necessity, Methods, and Future Directions | LLM Text Detection | [Link](https://arxiv.org/abs/2310.14724) |
+| A Survey on Detection of LLMs-Generated Content | LLM Text Detection | [Link](https://arxiv.org/abs/2310.15654) |
+| Detecting ChatGPT: A Survey of the State of Detecting ChatGPT-Generated Text | LLM Text Detection | [Link](https://aclanthology.org/2023.ranlp-stud.1/) |
+| Large Language Models for Generative Recommendation: A Survey and Visionary Discussions | Recommendations | [Link](https://arxiv.org/abs/2309.01157) |
+| Large Language Models for Information Retrieval: A Survey | Information Retrieval | [Link](https://arxiv.org/abs/2308.07107) |
+| A Survey on Model Compression for Large Language Models | Model Compression | [Link](https://arxiv.org/abs/2308.07633) |
+| A Survey of State of the Art Large Vision Language Models: Alignment, Benchmark, Evaluations and Challenges | Vision LLMs | [Link](https://arxiv.org/abs/2501.02189v5) |
+| Knowledge Editing for Large Language Models: A Survey | Knowledge Editing | [Link](https://arxiv.org/abs/2310.16218) |
+| A Comprehensive Survey on Integrating Large Language Models with Knowledge-Based Methods | Knowledge Bases | [Link](https://arxiv.org/abs/2501.13947) |
+
 
 
 
